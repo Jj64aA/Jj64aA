@@ -31,6 +31,5 @@ Hello, I am a computer science student, I am good at using computers and their p
  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"  sytle="background:whit;"/>
 </div> 
 
