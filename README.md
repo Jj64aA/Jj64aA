@@ -26,5 +26,6 @@ Hello, I am a computer science student, I am good at using computers and their p
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)
 
 ## 🛠 Skills
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 Java , C ,
 Python ,SQL ,Django ,HTML , CSS...
