@@ -28,8 +28,9 @@ Hello, I am a computer science student, I am good at using computers and their p
 ## 🛠 Skills
 <div>
  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
- <br>
  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/postgressql-icon.svg" alt="icon" width="65" height="65" />
 </div> 
 
