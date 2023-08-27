@@ -26,12 +26,13 @@ Hello, I am a computer science student, I am good at using computers and their p
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)
 
 ## 🛠 Skills
-<div>
- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-</div> 
+<h2>Back-end</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,postgresql" />
+  </a>
+</p>
+<h2>Front-end</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,postgresql" />
