@@ -50,3 +50,9 @@ Hello, I am a computer science student, I am good at using computers and their p
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
+<h2>Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+  </a>
+</p>
