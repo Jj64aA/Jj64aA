@@ -32,3 +32,8 @@ Hello, I am a computer science student, I am good at using computers and their p
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 </div> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
