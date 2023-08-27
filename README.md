@@ -27,7 +27,7 @@ Hello, I am a computer science student, I am good at using computers and their p
 
 ## 🛠 Skills
 <h2>Back-end</h2>
-<p align="center" style="background:red">
+<p align="center" style="bored:1px solid white">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django" />
   </a>
