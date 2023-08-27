@@ -53,6 +53,6 @@ Hello, I am a computer science student, I am good at using computers and their p
 <h2>Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,spider" />
+    <img src="https://skillicons.dev/icons?i=vscode,qt" />
   </a>
 </p>
