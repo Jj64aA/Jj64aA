@@ -32,4 +32,4 @@ Hello, I am a computer science student, I am good at using computers and their p
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 </div> 
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
