@@ -35,12 +35,18 @@ Hello, I am a computer science student, I am good at using computers and their p
 <h2>Front-end</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,postgresql" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css" />
   </a>
 </p>
 <h2>Data Base</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql" />
+  </a>
+</p>
+<h2>version control</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
