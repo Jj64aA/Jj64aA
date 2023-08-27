@@ -34,6 +34,6 @@ Hello, I am a computer science student, I am good at using computers and their p
 </div> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,postgresql" />
   </a>
 </p>
