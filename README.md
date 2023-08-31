@@ -41,7 +41,7 @@ Hello, I am a computer science student, I am good at using computers and their p
 <h2>Data Base</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,oracl" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 <h2>version control</h2>
