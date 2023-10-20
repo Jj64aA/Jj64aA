@@ -56,6 +56,12 @@ Hello, I am a computer science student with a keen interest in <b>data virtualiz
     <img src="https://skillicons.dev/icons?i=vscode,qt,postman" />
   </a>
 </p>
+<h2>Systems</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lunix,qt,postman" />
+  </a>
+</p>
 <br>
 
 
