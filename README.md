@@ -65,5 +65,8 @@ Hello, I am a computer science student with a keen interest in <b>data virtualiz
 </p>
 <br>
 <h1> 🚀 Programming Languages</h1>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
+<p align="leaft">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,java" />
+  </a>
+</p>
