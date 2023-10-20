@@ -59,7 +59,7 @@ Hello, I am a computer science student with a keen interest in <b>data virtualiz
 <h2>Systems</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lunix,qt,postman" />
+    <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
 <br>
