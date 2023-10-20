@@ -21,11 +21,11 @@ Hello, I am a computer science student with a keen interest in <b>data virtualiz
 ```
 
 
-## 🔗 Links
+# 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)
 
-## 🛠 Skills
+# 🛠 Skills
 <h2>Back-end</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,6 +64,6 @@ Hello, I am a computer science student with a keen interest in <b>data virtualiz
 </p>
 <br>
 <br>
-<h1>Programming Languages</h1>
+<h1> 🚀 Programming Languages</h1>
 
 
