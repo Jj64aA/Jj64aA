@@ -55,7 +55,7 @@ Hello, I am a computer science student with a keen interest in <b>data virtualiz
 <h2>Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,qt,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,qt,postman,anconda" />
   </a>
 </p>
 <h2>Systems</h2>
