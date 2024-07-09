@@ -14,12 +14,11 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![DRF](https://img.shields.io/badge/-Django%20Rest%20Framework-333333?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ### Databases
@@ -38,14 +37,17 @@
 
 ## 🔧 Projects & Contributions
 
-### [Backend Project 1](https://github.com/your-username/backend-project1)
-A brief description of your backend project using Python and Django.
+### [AI Project](https://github.com/your-username/ai-project)
+A brief description of your AI project.
 
-### [Backend Project 2](https://github.com/your-username/backend-project2)
-A brief description of your backend project using Flask and PostgreSQL.
+### [Django Project](https://github.com/your-username/django-project)
+A brief description of your project using Django and Django Rest Framework.
 
-### [Frontend Project](https://github.com/your-username/frontend-project)
-A brief description of your frontend project using React and Node.js.
+### [FastAPI Project](https://github.com/your-username/fastapi-project)
+A brief description of your project using FastAPI.
+
+### [Web Application Project](https://github.com/your-username/webapp-project)
+A brief description of your web application project using React and Node.js.
 
 ---
 
@@ -73,3 +75,4 @@ A brief description of your frontend project using React and Node.js.
 - Email: [yourname@example.com](mailto:yourname@example.com)
 - LinkedIn: [Khamed Mohammed Taha](https://www.linkedin.com/in/yourprofile/)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
