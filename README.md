@@ -44,24 +44,6 @@ Hello, I have a Bachelor's Degree in Computer Science and a keen interest in Art
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
 
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" alt="Khamed's GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true" alt="Khamed's GitHub Streak">
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" alt="Khamed's GitHub Trophies">
-
----
-
-## 📊 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" alt="Khamed's Top Languages">
-
 ---
 
 ## 📫 Contact Me
