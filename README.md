@@ -68,4 +68,4 @@ Hello, I have a Bachelor's Degree in Computer Science and a keen interest in Art
 
 - Email: [khamedkh297@gmail.com](mailto:khamedkh297@gmail.com)
 - LinkedIn: [Khamed Mohammed Taha](https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/)
-- Twitter: [@KhamedMedTaha]([https://twitter.com/yourhandle](https://x.com/KhamedMedTaha))
+- Twitter: [@KhamedMedTaha](https://x.com/KhamedMedTaha)
