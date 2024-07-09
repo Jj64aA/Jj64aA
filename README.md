@@ -37,6 +37,10 @@ Hello, I have a Bachelor's Degree in Computer Science and a keen interest in Art
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab)
 
+### Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
 ---
 
 ## 🔧 Projects & Contributions
