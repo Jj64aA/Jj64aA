@@ -1,6 +1,6 @@
 ![Alt text](1.png)
-<!-- Profile Header -->
-<img src="https://avatars.githubusercontent.com/your-username" alt="Profile Picture" width="150">
+---
+
 
 # Hi there, I'm Khamed Mohammed Taha 👋
 
