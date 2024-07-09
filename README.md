@@ -6,7 +6,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-KhamedMohammedTaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
 [![Twitter Badge](https://img.shields.io/badge/-@yourhandle-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
+---
 
+Hello, I have a Bachelor's Degree in Computer Science and a keen interest in Artificial Intelligence. I specialize in Python development and web applications. I have experience as a Junior Backend Developer with Django & DRF, and I am proficient in languages like Python and JavaScript. I also have skills in FastAPI. I have worked on a variety of projects that have enhanced my skills in this field, and I am always eager to stay updated with the latest technological advancements.
+
+---
 ---
 
 ## 🛠 Technologies & Tools
