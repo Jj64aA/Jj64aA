@@ -43,23 +43,7 @@ Hello, I have a Bachelor's Degree in Computer Science and a keen interest in Art
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
----
 
-## 🔧 Projects & Contributions
-
-### [AI Project](https://github.com/your-username/ai-project)
-A brief description of your AI project.
-
-### [Django Project](https://github.com/your-username/django-project)
-A brief description of your project using Django and Django Rest Framework.
-
-### [FastAPI Project](https://github.com/your-username/fastapi-project)
-A brief description of your project using FastAPI.
-
-### [Web Application Project](https://github.com/your-username/webapp-project)
-A brief description of your web application project using React and Node.js.
-
----
 
 ## 📈 GitHub Stats
 
@@ -82,6 +66,6 @@ A brief description of your web application project using React and Node.js.
 
 ## 📫 Contact Me
 
-- Email: [yourname@example.com](mailto:yourname@example.com)
-- LinkedIn: [Khamed Mohammed Taha](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: [khamedkh297@gmail.com](mailto:khamedkh297@gmail.com)
+- LinkedIn: [Khamed Mohammed Taha]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/khamed-mohammed-taha-7149b1267/))
+- Twitter: [@KhamedMedTaha]([https://twitter.com/yourhandle](https://x.com/KhamedMedTaha))
