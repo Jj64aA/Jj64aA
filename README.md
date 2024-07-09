@@ -24,7 +24,8 @@ Hello, I have a Bachelor's Degree in Computer Science and a keen interest in Art
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![DRF](https://img.shields.io/badge/-Django%20Rest%20Framework-333333?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![PyQT5](https://img.shields.io/badge/-PyQT5-333333?style=flat&logo=qt)
+![Requests](https://img.shields.io/badge/-Requests-333333?style=flat&logo=python)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
