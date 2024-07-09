@@ -13,6 +13,8 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ### Frameworks & Libraries
@@ -24,14 +26,13 @@
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 ### Tools
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab)
 
 ---
 
@@ -75,4 +76,3 @@ A brief description of your web application project using React and Node.js.
 - Email: [yourname@example.com](mailto:yourname@example.com)
 - LinkedIn: [Khamed Mohammed Taha](https://www.linkedin.com/in/yourprofile/)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
