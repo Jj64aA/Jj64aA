@@ -9,7 +9,7 @@
 
 
 
-Hello, I have a Bachelor's Degree in Computer Science and a keen interest in Artificial Intelligence. I specialize in Python development and web applications. I have experience as a Junior Backend Developer with Django & DRF, and I am proficient in languages like Python and JavaScript. I also have skills in FastAPI. I have worked on a variety of projects that have enhanced my skills in this field, and I am always eager to stay updated with the latest technological advancements.
+I hold a Bachelor's Degree in Computer Science with a strong interest in Artificial Intelligence. Specializing in Python development and backend development , I have gained experience as a Junior Backend Developer using Django and DRF and FastAPI . My technical proficiency extends to languages such as JavaScript , Throughout my career, I have worked on diverse projects that have honed my abilities in this field. I am continuously striving to stay abreast of the latest technological advancements and look forward to furthering my expertise in Data Science.
 
 ---
 
