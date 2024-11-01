@@ -38,6 +38,9 @@ I hold a Bachelor's Degree in Computer Science with a strong interest in Artific
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=00C853)
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda&logoColor=44A833)
+
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
