@@ -50,7 +50,8 @@ I hold a Bachelor's Degree in Computer Science with a strong interest in Artific
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-### Soft Skills
+## 🌟 Soft Skills
+
 ![Communication](https://img.shields.io/badge/-Communication-333333?style=flat&logo=communication)
 ![Teamwork](https://img.shields.io/badge/-Teamwork-333333?style=flat&logo=teamwork)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-333333?style=flat&logo=problem-solving)
