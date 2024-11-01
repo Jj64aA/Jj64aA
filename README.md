@@ -27,6 +27,7 @@ I hold a Bachelor's Degree in Computer Science with a strong interest in Artific
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![PyQT5](https://img.shields.io/badge/-PyQT5-333333?style=flat&logo=qt)
 ![Requests](https://img.shields.io/badge/-Requests-333333?style=flat&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 
